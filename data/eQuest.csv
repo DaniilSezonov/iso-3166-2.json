@@ -378,6 +378,7 @@ BJ,,,Benin
 ,BJ-MO,,Mono
 ,BJ-OU,,Ouémé
 ,BJ-ZO,,Zou
+BL,,,Saint Barthélemy
 BM,,,Bermuda
 ,BM-BM,,Bermuda
 BT,,,Bhutan
@@ -2291,6 +2292,30 @@ LU,,,Luxembourg
 ,LU-D,,Diekirch
 ,LU-G,,Grevenmacher
 ,LU-L,,Luxembourg (Luxemburg)
+ME,,,Montenegro
+,ME-01,,Andrijevica
+,ME-02,,Bar
+,ME-03,,Berane
+,ME-04,,Bijelo Polje
+,ME-05,,Budva
+,ME-06,,Cetinje
+,ME-07,,Danilovgrad
+,ME-08,,Herceg-Novi
+,ME-09,,Kolašin
+,ME-10,,Kotor
+,ME-11,,Mojkovac
+,ME-12,,Plav
+,ME-13,,Pljevlja
+,ME-14,,Plužine
+,ME-15,,Podgorica
+,ME-16,,Rožaje
+,ME-17,,Šavnik
+,ME-18,,Rožaje
+,ME-19,,Tivat
+,ME-20,,Ulcinj
+,ME-21,,Žabljak
+,ME-22,,Gusinje
+,ME-23,,Petnjica
 MO,,,Macau
 ,MO-MO,,Macau
 MK,,,Macedonia
